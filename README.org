@@ -1,2 +1,6 @@
+#+title: physics
+#+author: Tyler Maxwell
+
+
 * physics
 
