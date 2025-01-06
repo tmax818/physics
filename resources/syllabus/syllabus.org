@@ -1,12 +1,12 @@
-#+title: syllabus
+#+title: Physics Syllabus
 #+author: Mr. Maxwell
 
 * Physics  
 
-Instructor: Tyler Maxwell 
-Email: [[mailto:tyler.maxwell@lausd.net][tyler.maxwell@lausd.net]]  
-Classroom: 305  
-Office Hours: After School, by appointment
+** Instructor: Tyler Maxwell 
+** Email: [[mailto:tyler.maxwell@lausd.net][tyler.maxwell@lausd.net]]  
+** Classroom: 305  
+** Office Hours: After School, by appointment
 
 
 
@@ -33,7 +33,7 @@ The course is divided into units, each lasting approximately 2–4 weeks. Each u
 
 ** Unit 1: Motion and Forces  
 
-- **Timeline: 3–4 weeks**  
+*** Timeline: 3–4 weeks  
 
 *** Topics:  
 
@@ -48,68 +48,72 @@ The course is divided into units, each lasting approximately 2–4 weeks. Each u
 
 ** Unit 2: Momentum and Collisions  
 
-Timeline: 3–4 weeks  
-Topics:  
+*** Timeline: 3–4 weeks  
+*** Topics:  
 - Newton's laws of motion.  
 - Free-body diagrams.  
 - Friction, tension, and normal forces.  
 - Applications of forces in real-life scenarios.  
-Key Activities:  
+*** Key Activities:  
 - Lab: Investigating frictional forces.  
 - Problem Sets: Applications of Newton's laws.  
 
 ** Unit 3: Foces at a Distance  
 
-Timeline: 3 weeks  
-Topics:  
+*** Timeline: 3 weeks  
+*** Topics:  
 - Work and energy transfer.  
 - Kinetic and potential energy.  
 - Conservation of energy.  
 - Power and efficiency.  
-Key Activities:  
+*** Key Activities:  
 - Lab: Energy transformations in a pendulum.  
 - Experiment: Measuring power output.  
 
 ** Unit 4: Energy Conversion  
 
-Timeline: 2–3 weeks  
-Topics:  
+*** Timeline: 2–3 weeks  
+*** Topics:  
 - Momentum and impulse.  
 - Conservation of momentum.  
 - Elastic and inelastic collisions.  
-Key Activities:  
+*** Key Activities:  
 - Lab: Analyzing collisions using dynamic carts.  
 
 ** Unit 6: Electricity and Magnetism  
 
-Timeline: 4 weeks  
-Topics:  
+*** Timeline: 4 weeks  
+
+*** Topics:  
+
 - Electric forces and fields.  
 - Ohm’s law and simple circuits.  
 - Series and parallel circuits.  
 - Magnetism and electromagnetic induction.  
-Key Activities:  
+
+*** Key Activities:  
+
 - Lab: Building simple circuits.  
 - Project: Constructing a basic electromagnet.  
 
 ** Unit 7: Waves and Sound  
 
-Timeline: 4 weeks  
-Topics:  
+*** Timeline: 4 weeks  
+*** Topics:  
 - Types of waves: transverse and longitudinal.  
 - Wave properties: frequency, wavelength, amplitude, and speed.  
 - Sound waves and resonance.  
-Key Activities:  
+*** Key Activities:  
 - Lab: Measuring wave properties with a slinky.  
 - Experiment: Determining the speed of sound using resonance.  
 
 ** Unit 8: Stars and the Universe (Time Permitting)  
 
-Timeline: 2 weeks  
-Topics:  
+*** Timeline: 2 weeks  
+*** Topics:  
 - Basics of quantum mechanics.  
 - Relativity: time dilation and mass-energy equivalence.  
-Key Activities:  
+*** Key Activities:  
 - Discussion: Quantum mechanics in everyday life.  
 
 
@@ -123,11 +127,10 @@ Key Activities:
 
 * Materials Required  
 
-- Textbook: [Insert Textbook Title]  
+- Textbook: Physics in the Universe  
 - Scientific calculator.  
 - Lab notebook or binder.  
 - Ruler, protractor, and graph paper.  
-
 
 
 * Class Policies
@@ -141,6 +144,5 @@ Key Activities:
 
 * Important Dates  
 
-- Midterm Exam: [Insert Date]  
-- Final Exam: [Insert Date]  
-- Major Project Due: [Insert Date]  
+- Midterm Exam: TBD  
+- Final Exam: TBD    
