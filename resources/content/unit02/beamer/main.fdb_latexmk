@@ -1,6 +1,6 @@
 # Fdb version 4
-["pdflatex"] 1738723582.66903 "/home/tyler/physics/resources/content/unit02/beamer/main.tex" "main.pdf" "main" 1738723583.34477 0
-  "/home/tyler/physics/resources/content/unit02/beamer/main.tex" 1738723582.50803 308 cd717e2cfb2904cc4bb7c1f7d5b9264d ""
+["pdflatex"] 1738727971.13389 "/home/tyler/physics/resources/content/unit02/beamer/main.tex" "main.pdf" "main" 1738727971.96368 0
+  "/home/tyler/physics/resources/content/unit02/beamer/main.tex" 1738727970.95711 793 6d9961e968b66b9035d25dacc04b3d48 ""
   "/usr/local/texlive/2024/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/local/texlive/2024/texmf-dist/fonts/tfm/public/cm/cmr10.tfm" 1136768653 1296 45809c5a464d5f32c8f98ba97c1bb47f ""
   "/usr/local/texlive/2024/texmf-dist/fonts/tfm/public/cm/cmss10.tfm" 1136768653 1316 b636689f1933f24d1294acdf6041daaa ""
@@ -191,11 +191,11 @@
   "/usr/local/texlive/2024/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1727998225 5474867 7194e02fe3e8648570d423be8d224101 ""
   "/usr/local/texlive/2024/texmf-var/web2c/pdftex/pdflatex.fmt" 1727998323 3325967 01f7940432650d0bc6f72b6076700d88 ""
   "/usr/local/texlive/2024/texmf.cnf" 1727998218.91798 455 5b996dcaa0eb4ef14a83b026bc0a008c ""
-  "main.aux" 1738723583.29302 719 5e6260cc78cdf2d5a08a4a427a77ffa9 "pdflatex"
-  "main.nav" 1738723583.29302 395 9ef7a4846602bd3c969b95c74dad9f64 "pdflatex"
-  "main.out" 1738723583.16302 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
-  "main.tex" 1738723582.50803 308 cd717e2cfb2904cc4bb7c1f7d5b9264d ""
-  "main.toc" 1738723583.29202 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
+  "main.aux" 1738727971.91112 1128 6ec71fc873405ca99902e37bb37ba8b0 "pdflatex"
+  "main.nav" 1738727971.91112 645 1b44ec6b0b1736bcdf8605f163f4b769 "pdflatex"
+  "main.out" 1738727971.91112 121 26269dba56a221ee38f9462ee2bbafd6 "pdflatex"
+  "main.tex" 1738727970.95711 793 6d9961e968b66b9035d25dacc04b3d48 ""
+  "main.toc" 1738727971.91112 51 f46b5c459989474776d5528d25cc1104 "pdflatex"
   (generated)
   "main.aux"
   "main.log"
