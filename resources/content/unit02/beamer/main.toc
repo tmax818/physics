@@ -1,1 +1,4 @@
 \beamer@sectionintoc {1}{Wave Vocabulary}{3}{0}{1}
+\beamer@subsectionintoc {1}{1}{Wave Types}{3}{0}{1}
+\beamer@subsubsectionintoc {1}{1}{1}{mechanical waves}{3}{0}{1}
+\beamer@subsubsectionintoc {1}{1}{2}{electromagnetic waves}{4}{0}{1}
