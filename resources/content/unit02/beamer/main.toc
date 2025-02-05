@@ -2,3 +2,7 @@
 \beamer@subsectionintoc {1}{1}{Wave Types}{3}{0}{1}
 \beamer@subsubsectionintoc {1}{1}{1}{mechanical waves}{3}{0}{1}
 \beamer@subsubsectionintoc {1}{1}{2}{electromagnetic waves}{4}{0}{1}
+\beamer@subsectionintoc {1}{2}{Wave Properties}{5}{0}{1}
+\beamer@subsubsectionintoc {1}{2}{1}{amplitude}{5}{0}{1}
+\beamer@subsubsectionintoc {1}{2}{2}{wavelength}{7}{0}{1}
+\beamer@subsubsectionintoc {1}{2}{3}{frequency}{9}{0}{1}

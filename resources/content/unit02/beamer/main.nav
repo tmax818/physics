@@ -13,8 +13,19 @@
 \headcommand {\beamer@subsubsectionentry {0}{1}{1}{2}{4}{electromagnetic waves}}
 \headcommand {\slideentry {1}{1}{2}{4/4}{Wave Types}{0}}
 \headcommand {\beamer@framepages {4}{4}}
-\headcommand {\beamer@partpages {1}{4}}
 \headcommand {\beamer@subsectionpages {3}{4}}
-\headcommand {\beamer@sectionpages {3}{4}}
-\headcommand {\beamer@documentpages {4}}
-\headcommand {\gdef \inserttotalframenumber {4}}
+\headcommand {\beamer@subsectionentry {0}{1}{2}{5}{Wave Properties}}
+\headcommand {\beamer@subsubsectionentry {0}{1}{2}{1}{5}{amplitude}}
+\headcommand {\slideentry {1}{2}{1}{5/6}{Wave Properties}{0}}
+\headcommand {\beamer@framepages {5}{6}}
+\headcommand {\beamer@subsubsectionentry {0}{1}{2}{2}{7}{wavelength}}
+\headcommand {\slideentry {1}{2}{2}{7/8}{Wave Properties}{0}}
+\headcommand {\beamer@framepages {7}{8}}
+\headcommand {\beamer@subsubsectionentry {0}{1}{2}{3}{9}{frequency}}
+\headcommand {\slideentry {1}{2}{3}{9/10}{Wave Properties}{0}}
+\headcommand {\beamer@framepages {9}{10}}
+\headcommand {\beamer@partpages {1}{10}}
+\headcommand {\beamer@subsectionpages {5}{10}}
+\headcommand {\beamer@sectionpages {3}{10}}
+\headcommand {\beamer@documentpages {10}}
+\headcommand {\gdef \inserttotalframenumber {7}}

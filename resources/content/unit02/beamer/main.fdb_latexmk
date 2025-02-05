@@ -1,6 +1,8 @@
 # Fdb version 4
-["pdflatex"] 1738728635.02871 "/home/tyler/physics/resources/content/unit02/beamer/main.tex" "main.pdf" "main" 1738728635.78615 0
-  "/home/tyler/physics/resources/content/unit02/beamer/main.tex" 1738728634.87048 1332 2b0a92ff4369ce78eac73aac488caf0b ""
+["pdflatex"] 1738730735.66409 "/home/tyler/physics/resources/content/unit02/beamer/main.tex" "main.pdf" "main" 1738730736.53638 0
+  "../../../../public/amplitude.png" 1738728984.52885 24873 c559e8ccf455a1ba7591541bff47da08 ""
+  "../../../../public/wavelength.png" 1738729261.31105 14921 4ccf317e1739a8fe0e3d33c47e244a94 ""
+  "/home/tyler/physics/resources/content/unit02/beamer/main.tex" 1738730735.506 2086 fb857c3501464e7166555e673d0ec4e1 ""
   "/usr/local/texlive/2024/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc" 1136849721 2900 1537cc8184ad1792082cd229ecc269f4 ""
   "/usr/local/texlive/2024/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/local/texlive/2024/texmf-dist/fonts/tfm/jknappen/ec/tcss1095.tfm" 1136768653 1536 f0fa079cdc83a6ffeda21e42352cf1ea ""
@@ -197,11 +199,11 @@
   "/usr/local/texlive/2024/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1727998225 5474867 7194e02fe3e8648570d423be8d224101 ""
   "/usr/local/texlive/2024/texmf-var/web2c/pdftex/pdflatex.fmt" 1727998323 3325967 01f7940432650d0bc6f72b6076700d88 ""
   "/usr/local/texlive/2024/texmf.cnf" 1727998218.91798 455 5b996dcaa0eb4ef14a83b026bc0a008c ""
-  "main.aux" 1738728635.72949 1850 ee4a6ce3a0e3220fc789f8048c7f8a4d "pdflatex"
-  "main.nav" 1738728635.72949 1020 b3068552bb39dd1622b2690a05e914d2 "pdflatex"
-  "main.out" 1738728635.72949 231 002152db6b3620e989cb4e9040f9b2cc "pdflatex"
-  "main.tex" 1738728634.87048 1332 2b0a92ff4369ce78eac73aac488caf0b ""
-  "main.toc" 1738728635.72949 236 7cd55824a164bc15c5b3b8b65e9cd3cf "pdflatex"
+  "main.aux" 1738730736.47698 2988 7621065f7c9d03e598cc73d82c5bdf58 "pdflatex"
+  "main.nav" 1738730736.47798 1658 da8459e0abd7f170cddfa8fd59423355 "pdflatex"
+  "main.out" 1738730736.47798 366 d90c7b8d9a2cdc38c17ad195c8bfe7ba "pdflatex"
+  "main.tex" 1738730735.506 2086 fb857c3501464e7166555e673d0ec4e1 ""
+  "main.toc" 1738730736.47798 465 a84e58a1d5f5608f985dd143181fb8a3 "pdflatex"
   (generated)
   "main.aux"
   "main.log"
