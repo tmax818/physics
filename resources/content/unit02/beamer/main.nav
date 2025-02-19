@@ -24,8 +24,11 @@
 \headcommand {\beamer@subsubsectionentry {0}{1}{2}{3}{9}{frequency}}
 \headcommand {\slideentry {1}{2}{3}{9/10}{Wave Properties}{0}}
 \headcommand {\beamer@framepages {9}{10}}
-\headcommand {\beamer@partpages {1}{10}}
-\headcommand {\beamer@subsectionpages {5}{10}}
-\headcommand {\beamer@sectionpages {3}{10}}
-\headcommand {\beamer@documentpages {10}}
-\headcommand {\gdef \inserttotalframenumber {7}}
+\headcommand {\beamer@subsubsectionentry {0}{1}{2}{4}{11}{electromagnetic spectrum}}
+\headcommand {\slideentry {1}{2}{4}{11/11}{Wave Properties}{0}}
+\headcommand {\beamer@framepages {11}{11}}
+\headcommand {\beamer@partpages {1}{11}}
+\headcommand {\beamer@subsectionpages {5}{11}}
+\headcommand {\beamer@sectionpages {3}{11}}
+\headcommand {\beamer@documentpages {11}}
+\headcommand {\gdef \inserttotalframenumber {8}}

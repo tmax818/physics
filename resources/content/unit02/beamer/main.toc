@@ -6,3 +6,4 @@
 \beamer@subsubsectionintoc {1}{2}{1}{amplitude}{5}{0}{1}
 \beamer@subsubsectionintoc {1}{2}{2}{wavelength}{7}{0}{1}
 \beamer@subsubsectionintoc {1}{2}{3}{frequency}{9}{0}{1}
+\beamer@subsubsectionintoc {1}{2}{4}{electromagnetic spectrum}{11}{0}{1}
