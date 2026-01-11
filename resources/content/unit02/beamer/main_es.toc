@@ -1,8 +1,0 @@
-\beamer@sectionintoc {1}{Vocabulario de ondas}{3}{0}{1}
-\beamer@subsectionintoc {1}{1}{Tipos de olas}{3}{0}{1}
-\beamer@subsubsectionintoc {1}{1}{1}{ondas mecánicas}{3}{0}{1}
-\beamer@subsubsectionintoc {1}{1}{2}{ondas electromagnéticas}{4}{0}{1}
-\beamer@subsectionintoc {1}{2}{Propiedades de onda}{5}{0}{1}
-\beamer@subsubsectionintoc {1}{2}{1}{amplitud}{5}{0}{1}
-\beamer@subsubsectionintoc {1}{2}{2}{longitud de onda}{7}{0}{1}
-\beamer@subsubsectionintoc {1}{2}{3}{frecuencia}{9}{0}{1}
