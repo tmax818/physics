@@ -1,3 +1,4 @@
 #+title: README
+#+author: Mr. Maxwell
 
-* physics
+- <2026-06-02 Tue 18:22>
